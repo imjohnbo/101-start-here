@@ -1,6 +1,4 @@
-# Open Source 101
-
-## GitHub Actions: Automating all your open source software workflows 
+# Open Source 101: Automating all your open source software workflows  
 
 Hello, [Open Source 101](https://opensource101.com/events/columbia-2020/)! :wave:!
 
